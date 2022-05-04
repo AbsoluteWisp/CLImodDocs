@@ -1,14 +1,13 @@
 Welcome to CLImod's documentation!
 ==================================
 
-**CLImod** is a Minecraft coremod that enhances the game's chat capabilities
-through a system of client-side commands.
+**CLImod** is a Minecraft mod built to improve the game's chat.
 
 ..toctree::
 	:caption: Contents
 	:name: Main table of contents
 	:maxdepth: 3
 	
-	About
-	Commands
-	Extending CLImod
+	about
+	commands
+	extending
