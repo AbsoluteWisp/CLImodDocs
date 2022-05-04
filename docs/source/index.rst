@@ -5,9 +5,7 @@ Welcome to CLImod's documentation!
 
 ..toctree::
 	:caption: Contents
-	:name: Main table of contents
-	:maxdepth: 3
 	
-	about
-	commands
-	extending
+	./about
+	./commands
+	./extending
