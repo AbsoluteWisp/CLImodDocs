@@ -8,3 +8,4 @@ Welcome to CLImod's documentation!
    pages/about
    pages/commands
    pages/extending
+   pages/getstarted
