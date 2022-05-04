@@ -9,8 +9,8 @@ Arguments can be one of 3 types:
 - Single-word string: If something doesn't match any of the criteria above, it's considered a one-word string (word) and parsed as such
 
 .. toctree::
-	:caption: Dotcommands list
-
+   :caption: Dotcommands list
+   
    commands/ping
 	commands/dist2
 	commands/dist3
