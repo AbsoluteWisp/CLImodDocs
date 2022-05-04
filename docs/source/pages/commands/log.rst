@@ -5,6 +5,7 @@
 | Logs saved this way have a severity of "Info" and are saved in `climod.log` and output to game chat.
 
 Available overloads (variants)
+
 +---------------+-------------------+--------------------------------+-----------------------------------------------------------------------------+
 | Overload name | Argument count    | Syntax                         | Output                                                                      |
 +===============+===================+================================+=============================================================================+
