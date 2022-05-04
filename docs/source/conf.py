@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'CLImod'
+copyright = '2022, Ghostling225'
+author = 'Ghostling225'
 
 release = '0.1'
 version = '0.1.0'
