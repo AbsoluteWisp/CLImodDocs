@@ -12,8 +12,8 @@ Arguments can be one of 3 types:
    :caption: Dotcommands list
    
    commands/ping
-	commands/dist2
-	commands/dist3
-	commands/coord
-	commands/note
-	commands/log
+   commands/dist2
+   commands/dist3
+   commands/coord
+   commands/note
+   commands/log
