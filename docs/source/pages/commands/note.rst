@@ -1,7 +1,7 @@
 .note
 =====
 
-`.note` saves arbitrary text notes under user-defined names and stores them in a file.
+`.note` saves text notes under user-defined names and stores them in a file.
 
 Available overloads (variants)
 

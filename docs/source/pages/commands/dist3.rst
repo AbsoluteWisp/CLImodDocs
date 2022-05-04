@@ -2,7 +2,6 @@
 ======
 
 `.dist3` measures distances between two 3D points
-It outputs the distance between the points
 
 Available overloads (variants)
 
