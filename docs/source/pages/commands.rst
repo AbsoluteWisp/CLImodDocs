@@ -15,6 +15,7 @@ Commands
    commands/ping
    commands/dist2
    commands/dist3
+   commands/volume
    commands/coord
    commands/note
    commands/log
